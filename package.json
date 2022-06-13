@@ -22,7 +22,6 @@
 		"url": "https://github.com/tboittin/fcc-nodejs"
 	},
   "dependencies": {
-    "moment": "^2.10.2",
     "express": "4.14.0"
   }
 }
