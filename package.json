@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Thomas Boittin",
-  "description": "A new nodejs project",
-  "keywords": ["app","nodejs","backend"],
+	"description": "A new nodejs project",
+	"keywords": [
+		"app",
+		"nodejs",
+		"backend"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
